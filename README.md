@@ -1,2 +1,2 @@
-# Calory_Caluculator
-Javascript
+# Total calories calculator
+Javascrit
